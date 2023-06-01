@@ -1,3 +1,5 @@
+# Strings are imutable in nature which means by updating indexily not possible only we can assigning new value make changes into the string
+
 name = "0123456"
 
 # Iterable approach to print the string words
