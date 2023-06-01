@@ -1,3 +1,4 @@
+# Type conversion 
 # Note --> In python dafault input has string data type even you taking integer 
 
 num1 = input("Enter a number ")
