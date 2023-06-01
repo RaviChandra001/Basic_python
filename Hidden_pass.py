@@ -1,4 +1,4 @@
-# In this we enscrypt the password
+# In this we enscrypt the password as the length of the password
 name = input("Enter name of user : ")
 password = input("Enter password : ")
 
