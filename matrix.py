@@ -8,7 +8,7 @@ matrix1 = [
     [1,1,1]
 ]
 
-print(matrix1[0][1])  # 5
+print(matrix1[0][1])  # 1
 print(matrix1[0][0])  # 1
 print(matrix1[1][1])  # 1
 
