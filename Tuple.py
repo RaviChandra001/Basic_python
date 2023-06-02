@@ -1,4 +1,4 @@
-# Tuple are immutable in nature 
+# Tuple are immutable in nature  And tuple has only two methods index and count
 my_tuple = (1,1,2,3,4,5)
 print(type(my_tuple))  # <class 'tuple'>
 
