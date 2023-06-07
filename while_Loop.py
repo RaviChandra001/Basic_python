@@ -34,14 +34,4 @@ while i<50:
 else:
     print("Done with all the work")
     
-# Break statemnt example of while loop
-
-while True:
-    response = input("say something: ")
-    if (response == 'hii'):
-        print("Hello this side ravi!")
-    elif(response == 'hi'):
-        print("hello here is ravi again")
-    elif(response == 'bye' or response == 'Bye'):
-        break
 
